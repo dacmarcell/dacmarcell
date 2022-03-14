@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Marcell 👋
 
-- 🔭 Hoje estudo Ciências da Computação. Tenho uma base em C, HTML5, CSS3. Trabalhando atualmente em construção de sites simples.
-- 🌱 Estou aprendendo HTML5, CSS3 e futuramente voltarei pro C
+- 🔭 Hoje estudo Ciências da Computação. Tenho uma base em C, HTML5, CSS3 e JavaScript. Trabalhando atualmente em construção de sites simples.
+- 🌱 Estou aprendendo JavaScript e C
+- 🌲 Tenho conhecimento em HTML5, CSS3
 - 💬 Contate-me no e-mail: dacmarcell@gmail.com
 - 😄 Pronouns: Ele/dele
 

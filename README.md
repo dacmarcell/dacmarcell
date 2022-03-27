@@ -14,7 +14,6 @@
   <div style="display: inline_block"><br>
   <img align="left" alt="marcell-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/LcbB94yg5l8AAAAC/kratos-god-of-war.gif">
 </div>
-  <br>
   <div> 
   <a href = "mailto:dacmarcell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <br>

@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcell 👋
 
-- 🔭 Hoje estudo Ciências da Computação. Tenho uma base em C, HTML5, CSS3 e JavaScript. Trabalhando atualmente em construção de sites.
+- 🔭 Hoje estudo Ciências da Computação. Tenho uma base em C, HTML5, CSS3, JavaScript e PHP. Trabalhando atualmente em construção de sites.
 - 🌱 Estou aprendendo JavaScript e PHP.
 - 🌲 Tenho conhecimento em HTML5, CSS3.
 - 💬 Contate-me no e-mail: dacmarcell@gmail.com

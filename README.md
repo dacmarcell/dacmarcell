@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Marcell 👋
 
 - 🔭 Hoje estudo Ciências da Computação. Conheco um pouco das linguagens C, HTML5, CSS3, JavaScript e Python. Trabalhando atualmente em construção de sites e programas simples.
-- 🌱 Estou aprendendo Python.
-- 🌲 Tenho conhecimento em HTML5, CSS3 e JavaScript
+- 🌱 Estou aprendendo JavaScript.
+- 🌲 Tenho conhecimento em HTML5, CSS3 e Python.
 - 💬 Contate-me no e-mail: dacmarcell@gmail.com
 - 😄 Pronouns: Ele/dele.
 

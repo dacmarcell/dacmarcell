@@ -2,7 +2,8 @@
 
 - 🔭 Hoje estudo Ciências da Computação. Conheco as linguagens C, HTML5, CSS3, JavaScript e Python. Trabalhando atualmente em construção de sites e programas.
 - 🌱 Estou aprendendo Engenharia Reversa, ReactJS e Git.
-- 🌲 Tenho conhecimento em HTML5, CSS3, Python, JavaScript e Bootstrap.
+- 🌲 Tenho conhecimento em HTML5, CSS3, Python e JavaScript.
+- 🍎 Frameworks: Bootstrap
 - 💬 Contate-me no e-mail: dacmarcell@gmail.com
 
 <div>

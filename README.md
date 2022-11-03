@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Marcell 👋
 
-- 🔭 Hoje estudo Ciências da Computação. Conheco as linguagens C, HTML5, CSS3, JavaScript e Python. Trabalhando atualmente em construção de sites e programas.
-- 🌱 Estou aprendendo ReactJS, Vue.Js, Typescript e Pandas(Python).
-- 🌲 Tenho conhecimento em HTML5, CSS3, Python e JavaScript.
+- 🔭 Hoje estudo Ciências da Computação. Trabalho atualmente em construção de sites e programas.
+- 🌲 Tenho conhecimento em HTML5, CSS3, Python, JavaScript e sei o básico em C.
 - 🍎 Frameworks: Bootstrap
+- 🌱 Estou aprendendo ReactJS, Vue.Js, Typescript e Pandas(Python).
 - 💬 Contate-me no e-mail: dacmarcell@gmail.com
 <div> 
   <a href = "mailto:dacmarcell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

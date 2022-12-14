@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcell 👋
 
 # 💫 About Me:
-🔭 Graduando em Ciência da Computação<br>🌲 Me especializando em Python.<br>🍎 Iniciando os estudos em React.<br>
+🔭 Graduando em Ciência da Computação<br>🌲 Me especializando em Python.<br>
 
 
 ## 🌐 Socials:

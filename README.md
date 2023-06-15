@@ -1,7 +1,7 @@
 
-### Prazer, Marcell Andrade!
-* Estudante de Ciência da Computação,apaixonado por física e astronomia. Ministro palestras, oficinas e minicursos na minha faculdade com abrangência de conteúdo.
-* Me aprofundando em Solidity e Blockchain.
+### Prazer, Marcell!
+* Estudante de Ciência da Computação,apaixonado por física e astronomia. Ministro palestras, oficinas e minicursos na faculdade que eu estudo com abrangência de conteúdo.
+* Me especializando em React Native
 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dacmarcell@gmail.com)

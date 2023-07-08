@@ -1,6 +1,3 @@
-
-<img  width="400" align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
 ```javascript
 class MarcellDac {
   constructor(name, acknowledgements, primarySkillset, languages){
@@ -13,6 +10,8 @@ class MarcellDac {
 [website]: https://marcelldac.github.io/portfolio
 [linkedin]: https://www.linkedin.com/in/marcelldactes/
 <br>
+
+<img  width="400" align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 #### Rede Sociais!
 

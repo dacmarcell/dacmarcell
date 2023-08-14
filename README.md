@@ -4,7 +4,7 @@
 
 ###### Graduando em Ciência da Computação.
 
-🌱 &nbsp; Estou atualmente me aperfeiçoando em **Nextjs** e **C++**
+🌱 &nbsp; Estou atualmente me aperfeiçoando em **Nextjs** e **Go**
 
 😀 &nbsp; Posso te ajudar com **React.js**, **React Native**, **Linux**, **Git** e **Javascript**
 

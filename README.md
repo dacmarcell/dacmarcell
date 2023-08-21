@@ -1,4 +1,4 @@
-# Olá! 👋, me chamo Marcell 👨‍💻
+# Hello! 👋, my name is Marcell 👨‍💻
 
 ### FullStack Developer
 

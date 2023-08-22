@@ -1,6 +1,6 @@
 # Hello! 👋, my name is Marcell 👨‍💻
 
-### FullStack Developer | Graduating in Computer Sciente
+### Full Stack Developer | Graduating in Computer Sciente
 
 🌱 &nbsp; Delving into **Nextjs** and **Golang**
 

@@ -8,7 +8,7 @@
 
 📄 &nbsp; [Curriculum](https://docs.google.com/document/d/13rl7Lk2xPsUChlTUM_ENRSfKLs6o7k3iqJjhEBn5MwQ/edit?usp=sharing)
 
-🗃 &nbsp; [Portfolio](https://marcelldac.github.io/portfolio)
+🗃 &nbsp; [Resume](https://marcelldac.github.io/portfolio)
 
 ### Skills: 
 

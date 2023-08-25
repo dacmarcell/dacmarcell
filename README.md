@@ -1,32 +1,34 @@
-# Hello! 👋, my name is Marcell 👨‍💻
-
-### Full Stack Developer | Graduating in Computer Sciente
-
-🌱 &nbsp; Delving into **Nextjs** and **Golang**
-
-😀 &nbsp; I can help you with **React.js**, **React Native**, **Linux**, **Git** and **Javascript**
-
-📄 &nbsp; [Curriculum](https://docs.google.com/document/d/13rl7Lk2xPsUChlTUM_ENRSfKLs6o7k3iqJjhEBn5MwQ/edit?usp=sharing)
-
-🗃 &nbsp; [Resume](https://marcelldac.github.io/portfolio)
-
-### Skills: 
-
-<div>
-  <img src='https://www.vectorlogo.zone/logos/golang/golang-icon.svg' alt="Golang"/>
-  <img src='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg' alt="Javascript"/>
-  <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt="React.js"/>
-  <img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg alt="HTML5"'/>
-  <img src='https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg' alt="CSS3"/>
-  <img src='https://www.vectorlogo.zone/logos/linux/linux-icon.svg' alt="Linux"/>
-  <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt="Git"/>
-  <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' alt="Python"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=993399&height=120&section=header"/>
+<div align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=993399&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Marcell;I'm+a+Full-Stack+developer" alt="Typing SVG" /></a>
 </div>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=marcelldac&theme=onestar&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
+</div>
+<div align="center" style="inline-block"> 
+<br>
 
-<img  width="400" align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-#### Social Media
-
-👔 [Linkedin](https://www.linkedin.com/in/marcelldactes/)
-
-🐦 [Twitter](https://twitter.com/a40845177)
+### My main skills:
+![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Studying in this moment:
+![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+</div>
+<br>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelldac&layout=compact&theme=dracula)
+</div>
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=993399&height=120&section=footer"/>

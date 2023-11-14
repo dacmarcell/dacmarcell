@@ -22,10 +22,6 @@
 
 </div>
 <br>
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelldac&theme=tokyonight)
-</div>
 <div align='center'>
   
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcelldac&theme=tokyonight)

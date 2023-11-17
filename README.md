@@ -43,7 +43,4 @@
 <a href="#">
   <img src="https://skillicons.dev/icons?i=md"/>
 </a>
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=md"/>
-</a>
 </div>

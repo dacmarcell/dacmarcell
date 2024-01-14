@@ -6,23 +6,32 @@
 
 ### Minhas Skills 🎯
 
-![Typescript](https://skillicons.dev/icons?i=ts)
+- Front-end:
+
 ![Javascript](https://skillicons.dev/icons?i=js)
-![Golang](https://skillicons.dev/icons?i=golang)
-![Python](https://skillicons.dev/icons?i=python)
-![C#](https://skillicons.dev/icons?i=c#)
-![Nest.js](https://skillicons.dev/icons?i=nestjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+![JQuery](https://skillicons.dev/icons?i=jquery)
+![Angular](https://skillicons.dev/icons?i=angular)
+![React.js](https://skillicons.dev/icons?i=react)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React.js](https://skillicons.dev/icons?i=react)
-![JQuery](https://skillicons.dev/icons?i=jquery)
-![Flask](https://skillicons.dev/icons?i=flask)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+- Back-end:
+
+![C#](https://skillicons.dev/icons?i=c#)
+![Typescript](https://skillicons.dev/icons?i=ts)
+![Golang](https://skillicons.dev/icons?i=golang)
+![Python](https://skillicons.dev/icons?i=python)
+![Nest.js](https://skillicons.dev/icons?i=nestjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+- Outros:
+  
 ![Jest](https://skillicons.dev/icons?i=jest)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)

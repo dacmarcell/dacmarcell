@@ -40,3 +40,9 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![md](https://skillicons.dev/icons?i=md)
 
+### Contador de visitas no perfil 📍
+
+  <img
+    src="https://profile-counter.glitch.me/marcelldac/count.svg"
+    alt="Número de visitantes no perfil"
+  />

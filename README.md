@@ -1,48 +1,33 @@
-# Olá, me chamo Marcell. 🧠
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=120&section=header"/>
 
-## Sou desenvolvedor de software back-end, cientista da Computação, amante de criptomoedas, web 3.0 e computação quântica
+<div align='center'>
+  <h1>Olá, me chamo Marcell. 🧠</h1>
+  <h2>Desenvolvedor de software <b>Back-end</b>, <b>Cientista da Computação</b>, amante de <b>Criptomoedas</b>, <b>Web 3.0</b> e <b>Computação Quântica</b></h2>
+</div>
 
-![gh-profile](https://github-profile-trophy.vercel.app/?username=marcelldac&theme=onestar&row=1&column=3&no-bg=true&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcelldac&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center" style="inline-block"> 
+<br>
 
 ### Minhas Skills 🎯
+[![Back End Skills 1](https://skillicons.dev/icons?i=ts,nodejs,c#)](https://skillicons.dev)
+[![Back End Skills 2](https://skillicons.dev/icons?i=python,golang)](https://skillicons.dev)
 
-- Back-end:
+<br>
 
-![Typescript](https://skillicons.dev/icons?i=ts)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![C#](https://skillicons.dev/icons?i=c#)
-![Python](https://skillicons.dev/icons?i=python)
-![Golang](https://skillicons.dev/icons?i=golang)
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-- Databases:
+<br>
 
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+[![Front End Skills](https://skillicons.dev/icons?i=js,astro,react,nextjs,angular,html,css)](https://skillicons.dev)
 
-- Front-end:
+<br>
 
-![Astro.js](https://skillicons.dev/icons?i=astro)
-![React.js](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Angular](https://skillicons.dev/icons?i=angular)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+[![Others](https://skillicons.dev/icons?i=jest,docker,git,linux,md)](https://skillicons.dev)
 
-- Testes:
-  
-![Jest](https://skillicons.dev/icons?i=jest)
+</div>
 
-- Outros:
-
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![md](https://skillicons.dev/icons?i=md)
-
-### Contador de visitas no perfil 📍
-
-  <img
-    src="https://profile-counter.glitch.me/marcelldac/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=120&section=footer"/>

@@ -12,6 +12,8 @@
 <div align="center" style="inline-block"> 
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelldac&bg_color=0a0222&color=b3b3b3&line=157520&point=206541&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Minhas Skills 🎯
 [![Back End Skills 1](https://skillicons.dev/icons?i=ts,nodejs,c#)](https://skillicons.dev)
 [![Back End Skills 2](https://skillicons.dev/icons?i=python,golang)](https://skillicons.dev)

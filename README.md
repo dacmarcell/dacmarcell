@@ -1,6 +1,6 @@
 # 📗 About me <img align='right' height="300em" src="assets\images\Programming-amico.png"/>
 
-💚 Hello, my name is **Marcel**. I'm currently pursuing a **bachelor's** degree in **Computer Science**.
+💚 Hello, my name is **Marcell**. I'm currently pursuing a **bachelor's** degree in **Computer Science**.
 
 💻 I am a **software developer specializing** in **back-end development**.
 

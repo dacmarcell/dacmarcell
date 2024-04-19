@@ -1,4 +1,4 @@
-# 📗 About me <img align='right' height="300em" src="assets\images\Programming-amico.png"/>
+# 📗 About me <img align='right' height="310em" src="assets\images\Programming-amico.png"/>
 
 💚 Hello, my name is **Marcel**. I'm currently pursuing a **bachelor's** degree in **Computer Science**.
 

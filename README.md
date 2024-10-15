@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor **Fullstack** com experiência em uma ampla gama de tecnologias e plataformas. Atualmente, atuo como **Líder de Desenvolvimento de Software** na [Diamantes Consultoria](https://grupodiamantes.com.br), onde trabalho em soluções inovadoras para diversos setores.
+Cientista da computação em formação, Desenvolvedor de Software **Full-Stack**. Liderança do setor de desenvolvimento de software na empresa **diamantes consultoria**. Aprecio e aplico boas práticas de desenvolvimento de software, como os importantes conceitos DRY, SOLID, KISS e Clean Code. Também atuo na implementação de design patterns e soluções padronizadas quando necessário. Tendo em foco o desenvolvimento de aplicações escaláveis e performáticas, utilizando tecnologias da atualidade.
 
-Com paixão por código bem escrito e boas práticas de desenvolvimento, busco sempre a excelência em cada projeto que participo. Minha experiência abrange desde o frontend moderno, utilizando frameworks como React e Angular, até o desenvolvimento backend com Node.js, Python e Java.
+Atualmente trabalho com o ecossistema Javascript com foco na Web, utilizando o framework Next.js 14 e Node.js. Tenho um gato chamado Django e não gosto de café sem açúcar. Sou curioso e inquieto. Sempre estudando algo novo ou fazendo algum projeto.
 
 ### Experiência Profissional
 
@@ -14,8 +14,8 @@ Com paixão por código bem escrito e boas práticas de desenvolvimento, busco s
 
 ### Habilidades Técnicas
 
-- **Linguagens de Programação**: JavaScript (Node.js, React, Angular), Python, Java, PHP
-- **Frameworks e Bibliotecas**: Express.js, Django, Spring, Laravel
+- **Linguagens de Programação**: Typescript (Node.js, Next.js), Python.
+- **Frameworks e Bibliotecas**: Express.js, Fastify.js, FastAPI
 - **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Redis
 - **DevOps**: Docker, Kubernetes, AWS, CI/CD
 - **Outras Tecnologias**: Git, RESTful APIs, Microservices, GraphQL

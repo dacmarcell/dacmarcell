@@ -16,13 +16,13 @@ Atualmente trabalho com o ecossistema Javascript com foco na Web, utilizando o f
 
 - **Linguagens de Programação**: Typescript (Node.js, Next.js), Python.
 - **Frameworks e Bibliotecas**: Express.js, Fastify.js, FastAPI
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Redis
-- **DevOps**: Docker, Kubernetes, AWS, CI/CD
-- **Outras Tecnologias**: Git, RESTful APIs, Microservices, GraphQL
-
+- **Banco de Dados**: PostgreSQL
+- **DevOps**: Docker, CI/CD
+- **Outras Tecnologias**: Git, RESTful APIs
+- 
 ### Projetos Recentes
 
-No meu [GitHub](https://github.com/dacmarcell) você pode encontrar alguns dos projetos que venho desenvolvendo. Eles variam desde aplicações web completas até ferramentas open-source para facilitar o dia a dia de desenvolvedores.
+No meu [GitHub](https://github.com/dacmarcell) você pode encontrar alguns dos projetos que venho desenvolvendo. Eles variam desde aplicações web até ferramentas open-source em Rust
 
 ### Entre em Contato
 

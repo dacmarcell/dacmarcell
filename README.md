@@ -19,7 +19,7 @@ Atualmente trabalho com o ecossistema Javascript com foco na Web, utilizando o f
 - **Banco de Dados**: PostgreSQL
 - **DevOps**: Docker, CI/CD
 - **Outras Tecnologias**: Git, RESTful APIs
-- 
+  
 ### Projetos Recentes
 
 No meu [GitHub](https://github.com/dacmarcell) você pode encontrar alguns dos projetos que venho desenvolvendo. Eles variam desde aplicações web até ferramentas open-source em Rust

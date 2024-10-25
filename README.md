@@ -9,13 +9,13 @@ Atualmente trabalho com o ecossistema Javascript com foco na Web, utilizando o f
 ### Experiência Profissional
 
 - **Líder de Desenvolvimento de Software** na [Diamantes Consultoria](https://grupodiamantes.com.br)
-- Vasta experiência com **Javascript**, e liderança de equipe de desenvolvimento de software.
+- Vasta experiência com **Typescript**, e liderança de equipe de desenvolvimento de software.
 - Desenvolvimento Fullstack com foco em escalabilidade, segurança e performance.
 
 ### Habilidades Técnicas
 
 - **Linguagens de Programação**: Javascript, Typescript, Python, Rust.
-- **Frameworks e Bibliotecas**: Express.js, Fastify.js, FastAPI, Next.js, React.js.
+- **Frameworks e Bibliotecas**: Express.js, Fastify.js, FastAPI, Next.js, React.js, Vue.js.
 - **Banco de Dados**: PostgreSQL.
 - **DevOps**: Docker, CI/CD.
 - **Outras Tecnologias**: Git, RESTful APIs, Linux.

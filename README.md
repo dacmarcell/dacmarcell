@@ -1,10 +1,4 @@
-# Olá, eu sou Marcell Dactes! 👋
-
-## Sobre mim
-
-Cientista da computação em formação, Desenvolvedor de Software **Full-Stack**. Liderança do setor de desenvolvimento de software na empresa **diamantes consultoria**. Aprecio e aplico boas práticas de desenvolvimento de software, como os importantes conceitos DRY, SOLID, KISS e Clean Code. Atuo na implementação de design patterns e soluções padronizadas quando necessário. Tendo em foco o desenvolvimento de aplicações escaláveis e performáticas, utilizando tecnologias da atualidade.
-
-Atualmente trabalho com o ecossistema Javascript com foco na Web, utilizando o framework Next.js 14 e Node.js. Tenho um gato chamado Django e não gosto de café sem açúcar. Sou curioso e inquieto. Sempre estudando algo novo ou fazendo algum projeto.
+# Olá, eu sou Marcell Dactes!
 
 ### Experiência Profissional
 
@@ -14,11 +8,13 @@ Atualmente trabalho com o ecossistema Javascript com foco na Web, utilizando o f
 
 ### Habilidades Técnicas
 
-- **Linguagens de Programação**: Javascript, Typescript, Python, Rust.
-- **Frameworks e Bibliotecas**: Express.js, Fastify.js, FastAPI, Next.js, React.js, Vue.js.
-- **Banco de Dados**: PostgreSQL.
-- **DevOps**: Docker, CI/CD.
-- **Outras Tecnologias**: Git, RESTful APIs, Linux.
+- **Linguagens de Programação**: Javascript, Typescript, Python, Rust, Kotlin, Java, C#.
+- **Frameworks e Bibliotecas**: Express.js, Fastify.js, FastAPI, Next.js, React.js, React Native, Vue.js, .NET, Spring Boot.
+- **Banco de Dados**: PostgreSQL, SQL Server, MySQL
+- **DevOps**: Docker, Github Actions, Git
+- **Outras Tecnologias**: RESTful APIs, Linux.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacmarcell&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 
 ### Entre em Contato
 

@@ -45,7 +45,6 @@ Nas horas vagas, estou sempre estudando algo novo ou desenvolvendo projetos pess
 
 ## Contato
 
-*   **Telefone:** 71992760849
 *   **Email:** devmarcell@protonmail.com
 *   **LinkedIn:** [linkedin.com/in/marcell-dactes/](https://www.linkedin.com/in/marcell-dactes/)
 *   **Portfolio:** [devmarcell.vercel.app/](https://devmarcell.vercel.app/)

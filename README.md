@@ -7,8 +7,3 @@ Bacharelando em Ciência da Computação e **Desenvolvedor Web FullStack com mai
 Atualmente, trabalho com o ecossistema PHP, especialmente com Laravel, e sou proficiente em diversas linguagens, como C#, Typescript, Rust e Python. Também tenho experiência com frameworks como Next.js, .NET e Quasar. Como um desenvolvedor Júnior curioso, adoro explorar novas tecnologias e aprimorar constantemente minhas habilidades.
 
 Nas horas vagas, estou sempre estudando algo novo ou desenvolvendo projetos pessoais.
-
-## Contato
-
-*   **LinkedIn:** [linkedin.com/in/marcell-dactes/](https://www.linkedin.com/in/marcell-dactes/)
-*   **Portfolio:** [devmarcell.vercel.app/](https://devmarcell.vercel.app/)

@@ -6,4 +6,4 @@
 
 Atualmente, trabalho com o ecossistema PHP, especialmente com Laravel. minhas skills além do PHP, abrangem as linguagens C#, Typescript, Rust e Python. Experiência comprovada com diversos frameworks como Next.js, .NET e Vue.js. Adoro explorar novas tecnologias.
 
-Nas horas vagas, estou sempre estudando algo novo ou desenvolvendo projetos pessoais.
+Nas horas vagas, aproveito para estudar tendências da área ou desenvolver projetos pessoais.

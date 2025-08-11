@@ -1,9 +1,9 @@
-# Marcell Dactes - Desenvolvedor de Software FullStack
+# Marcell Dactes - Desenvolvedor de Software
 
 ## Sobre Mim
 
-Bacharelando em Ciência da Computação e **Desenvolvedor Web FullStack com mais de um ano de experiência**, apaixonado por escrever código limpo e eficiente. Aplico princípios como **DRY, SOLID, KISS e Clean Code**, com foco na criação de aplicações escaláveis e performáticas utilizando tecnologias modernas.
+**Desenvolvedor FullStack com mais de um ano de experiência**, desenvolvedor com foco em estruturação de sistemas escaláveis, utilizando práticas modernas de desenvolvimento de software. Em constante atualização e aprendizado. Aplicando princípios como **DRY, SOLID, KISS e Clean Code**.
 
-Atualmente, trabalho com o ecossistema PHP, especialmente com Laravel, e sou proficiente em diversas linguagens, como C#, Typescript, Rust e Python. Também tenho experiência com frameworks como Next.js, .NET e Quasar. Como um desenvolvedor Júnior curioso, adoro explorar novas tecnologias e aprimorar constantemente minhas habilidades.
+Atualmente, trabalho com o ecossistema PHP, especialmente com Laravel. minhas skills além do PHP, abrangem as linguagens C#, Typescript, Rust e Python. Experiência comprovada com diversos frameworks como Next.js, .NET e Vue.js. Adoro explorar novas tecnologias.
 
 Nas horas vagas, estou sempre estudando algo novo ou desenvolvendo projetos pessoais.

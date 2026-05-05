@@ -2,8 +2,6 @@
 
 Mid-level software developer with around 3 years of experience building scalable and high-performance systems.
 
-[![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a16b9e48-dd98-44e2-afb0-342b8a505b9f)
-
 <!--
 **dacmarcell/dacmarcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

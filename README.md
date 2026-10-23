@@ -3,6 +3,7 @@
 ---
 
 Mid Level Software Developer
+
 📍Brazil | Remote
 
 From prototype to production, no hacks.

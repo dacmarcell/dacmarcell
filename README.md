@@ -2,6 +2,6 @@
 
 ---
 
-Desenvolvedor fullstack focado em soluções seguras com experiências modernas.
+From prototype to production, no hacks.
 
 🔗 [linkedin.com/marcell-dactes/](https://www.linkedin.com/in/marcell-dactes/)
